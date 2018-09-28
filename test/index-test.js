@@ -14,7 +14,7 @@ describe('index', () => {
       0,
       null,
       null
-    )
+    ).
 
     document.body.dispatchEvent(keyboardEvent)
   }
